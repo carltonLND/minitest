@@ -4,7 +4,7 @@
   "description": "A mini testing framwork for logging readable results to the console.",
   "type": "module",
   "main": "tests.js",
-  "author": "Carlton Nunes Desouza",
+  "author": "Carlton Nunes Desouza (https://github.com/carltonLND)",
   "license": "MIT",
   "dependencies": {
     "chalk": "^5.2.0"
