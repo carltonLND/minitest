@@ -1,0 +1,12 @@
+{
+  "name": "minitest",
+  "version": "0.3.1",
+  "description": "A mini testing framwork for logging readable results to the console.",
+  "type": "module",
+  "main": "tests.js",
+  "author": "Carlton Nunes Desouza",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
