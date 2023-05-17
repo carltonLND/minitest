@@ -1,7 +1,7 @@
 {
   "name": "@carltonlnd/minitest",
-  "version": "0.3.3",
-  "description": "A mini testing framwork for logging readable results to the console.",
+  "version": "0.3.4",
+  "description": "A mini testing framework for logging readable results to the console.",
   "type": "module",
   "main": "minitest.js",
   "author": "Carlton Nunes Desouza (https://github.com/carltonLND)",
